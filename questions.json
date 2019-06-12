@@ -1,0 +1,38 @@
+
+[
+    {
+        "question": "Which of this has Ikeja?",
+        "choice1": "Lagos",
+        "choice2": "Ibadan",
+        "choice3": "Ogun",
+        "choice4": "Jos",
+        "answer": 1
+    },
+
+    {
+        "question": "Which of this has Oyo?",
+        "choice1": "Lagos",
+        "choice2": "Ibadan",
+        "choice3": "Ogun",
+        "choice4": "Jos",
+        "answer": 2
+    },
+
+    {
+        "question": "Which of this has Plateau?",
+        "choice1": "Lagos",
+        "choice2": "Ibadan",
+        "choice3": "Ogun",
+        "choice4": "Jos",
+        "answer": 4
+    },
+
+    {
+        "question": "Which of this has Abeokuta?",
+        "choice1": "Lagos",
+        "choice2": "Ibadan",
+        "choice3": "Ogun",
+        "choice4": "Jos",
+        "answer": 3
+    } 
+]
