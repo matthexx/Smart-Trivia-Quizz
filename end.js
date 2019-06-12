@@ -20,8 +20,8 @@ saveHighScore = e => {
 
 
 const score = {
-    score: Math.floor(Math.random() * 100),
-    // score: Math.floor(mostRecentScore),
+    // score: Math.floor(Math.random() * 100),
+    score: Math.floor(mostRecentScore),
 
     name: username.value
 };
